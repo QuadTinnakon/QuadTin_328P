@@ -1,6 +1,10 @@
 Quad_328P
 =========
 
+Video
+
+http://www.youtube.com/watch?v=Wub-NApx8yg&list=UUK8SdBKqjdXghqlJf3-sZaQ
+
 support:  Board MWC_328P
 
 • Atmega328P
